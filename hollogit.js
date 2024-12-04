@@ -1,1 +1,1 @@
-var msg 
+document.write("hola mundo cruel");
