@@ -1,1 +1,1 @@
-document.write("hola mundo cruel");
+document.write("hola mundo cruel v2");
